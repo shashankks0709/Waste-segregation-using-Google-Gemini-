@@ -11,6 +11,8 @@ SORTRIGHT is a real-time waste classification and disposal educator app develope
 - Suggestions for right waste disposal methods based on the identified object(s) in the image.
 - Customizable UI with options to adjust the layout and styling.
 
+<img width="752" alt="Screenshot 2024-03-18 at 12 20 23 AM" src="https://github.com/shashankks0709/Waste-segregation-using-Google-Gemini-/assets/71184502/abde1bbd-002e-40e4-b834-a5e8d7ac55fe">
+
 ## Demo
 https://youtu.be/5iCajgkHHqE
 
