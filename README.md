@@ -16,6 +16,12 @@ SORTRIGHT is a real-time waste classification and disposal educator app develope
 ## Demo
 https://youtu.be/5iCajgkHHqE
 
+Input:
+<img width="716" alt="Screenshot 2024-03-18 at 12 20 56 AM" src="https://github.com/shashankks0709/Waste-segregation-using-Google-Gemini-/assets/71184502/a2a0993a-8223-40d4-8680-a17c11785cc0">
+
+Output:
+<img width="692" alt="Screenshot 2024-03-18 at 12 21 06 AM" src="https://github.com/shashankks0709/Waste-segregation-using-Google-Gemini-/assets/71184502/24834cc4-24be-4bfb-945c-7b844ffd8f73">
+
 ## Setup
 
 To run this app, you need Python 3.6 or later and a Google Cloud Platform account with the Generative AI API enabled.
